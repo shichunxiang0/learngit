@@ -1,0 +1,1 @@
+{"status":"1","update":{"version":"1.5.0","url":"http://app.kongfz.com/downloads/kongfzApk.php","des":"最新版本：1.5.0<br />新版本大小：8.26M<br />更新内容<br />1.bug修改。<br />2.功能更新。"}}
