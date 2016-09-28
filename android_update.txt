@@ -1,1 +1,1 @@
-{"status":"1","update":{"version":57,"url":"http://app.kongfz.com/downloads/android/kongfz.com_1.5.0.apk","des":"最新版本：1.5.0<br />新版本大小：8.26M<br />更新内容<br />1.bug修改。<br />2.功能更新。"}}
+{"status":"1","update":{"version":58,"url":"http://app.kongfz.com/downloads/android/kongfz.com_1.5.0.apk","des":"最新版本：1.5.0<br />新版本大小：8.26M<br />更新内容<br />1.bug修改。<br />2.功能更新。"}}
